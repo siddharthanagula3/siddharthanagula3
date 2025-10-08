@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @siddharthanagula3<br>👀 I’m interested in Software Development, Machine Learning, Deep Learning, Artificial Intelligence, Cloud Computing, and Cybersecurity.<br>🌱 I’m currently learning Advanced Machine Learning, Artificial Intelligence, and Cloud Technologies (AWS, Azure, Google Cloud).<br>💞️ I’m looking to collaborate on Open-source projects, AI-based applications, and full-stack development.<br>📫 How to reach me: Email: siddharthanagula3@gmail.com<br>LinkedIn: https://www.linkedin.com/in/siddharthanagula<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing Basketball and watching Anime.
+👋 Hi, I’m @siddharthanagula3<br>👀 I’m interested in Software Development, Machine Learning, Artificial Intelligence, Cloud Computing, and Cybersecurity.<br>🌱 I’m currently learning Advanced Machine Learning, Artificial Intelligence, and Cloud Technologies (AWS, Azure, Google Cloud).<br>💞️ I’m looking to collaborate on Open-source projects, AI-based applications, and full-stack development.<br>📫 How to reach me: Email: siddharthanagula3@gmail.com<br>LinkedIn: https://www.linkedin.com/in/siddharthanagula<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing Basketball and watching Anime.
 
 
 ## 🌐 Socials:
