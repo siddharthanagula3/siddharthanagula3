@@ -38,3 +38,8 @@ AWS
 Docker	
 WebRTC	
 ARKit
+Python
+Playwright
+GitHub Actions
+Sentry
+Stripe
